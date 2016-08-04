@@ -1,0 +1,60 @@
+/***************************************/
+/*Comments                             */
+/***************************************/
+
+.ion-comment {
+  font-size: 12px;
+  padding: 6px 15px;
+  overflow: visible;
+  white-space: normal;
+  border: none;
+}
+.ion-comment--text p {
+  overflow: visible;
+  white-space: normal;
+}
+.ion-comment .item-content,
+.ion-comment .item-content p {
+  padding: 0;
+  overflow: visible;
+  white-space: normal;
+  font-size: 13px;
+  color: #3f3f3f
+}
+.ion-comment--author {
+  color: #346f66;
+  margin-bottom: 6px;
+  font-weight: bold;
+}
+.ion-comment--op {
+  color: #346f66;
+}
+.ion-comment--replies {
+  color: #346f66;
+  text-align: right;
+}
+.ion-comment--answerbutton {
+  color: #346f66;
+
+
+  text-decoration: underline;
+}
+.ion-comment--score {
+  text-align: right;
+  position: absolute;
+  top: 6px;
+  right: 6px;
+  color: #346f66;
+  -webkit-transition: color 0.3s;
+  transition: color 0.3s;
+}
+.ion-comment--container {
+  background-color: #f8f8f8;
+}
+.ion-comment--children {
+  margin-left: 22px;
+}
+
+.ion-comment.item {
+  margin-bottom: 4px;
+}

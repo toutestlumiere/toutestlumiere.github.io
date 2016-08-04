@@ -1,0 +1,193 @@
+@font-face {
+    font-family: 'stigicon';
+    src:url('fonts/stigicon.eot?-eifr2y31');
+    src:url('fonts/stigicon.eot?#iefix-eifr2y31') format('embedded-opentype'),
+    url('fonts/stigicon.woff2?-eifr2y31') format('woff2'),
+    url('fonts/stigicon.ttf?-eifr2y31') format('truetype'),
+    url('fonts/stigicon.woff?-eifr2y31') format('woff'),
+    url('fonts/stigicon.svg?-eifr2y31#stigicon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="stigicon-"]:before, [class*=" stigicon-"]:before {
+	font-family: 'stigicon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+
+    /* Enable Ligatures ================ */
+    /**/
+    letter-spacing: 0;
+    -webkit-font-feature-settings: "liga";
+    -moz-font-feature-settings: "liga=1";
+    -moz-font-feature-settings: "liga";
+    -ms-font-feature-settings: "liga" 1;
+    -o-font-feature-settings: "liga";
+    font-feature-settings: "liga";
+    /**/
+
+
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+
+
+.stigicon-filters:before {
+    content: "\e903";
+}
+.stigicon-famille:before {
+    content: "\e902";
+}
+.stigicon-recent:before {
+    content: "\e602";
+}
+.stigicon-rechercher:before {
+    content: "\e604";
+}
+.stigicon-plusadd:before {
+    content: "\e900";
+}
+.stigicon-twitter2:before {
+    content: "\ea92";
+}
+.stigicon-facebook2:before {
+    content: "\ea8d";
+}
+.stigicon-controverses:before {
+    content: "\e601";
+}
+.stigicon-amendements:before {
+    content: "\e605";
+}
+.stigicon-settings:before {
+    content: "\e60c";
+}
+.stigicon-brouillons:before {
+    content: "\e60b";
+}
+.stigicon-votes:before {
+    content: "\e609";
+}
+.stigicon-agriculture:before {
+    content: "\e61f";
+}
+.stigicon-defense:before {
+    content: "\e61e";
+}
+.stigicon-ecoindus:before {
+    content: "\e61d";
+}
+.stigicon-ecologieenergie:before {
+    content: "\e61c";
+}
+.stigicon-emploi:before {
+    content: "\e61a";
+}
+.stigicon-finances:before {
+    content: "\e619";
+}
+.stigicon-instpolitiques:before {
+    content: "\e618";
+}
+.stigicon-justice:before {
+    content: "\e617";
+}
+.stigicon-numerique:before {
+    content: "\e615";
+}
+.stigicon-outremer:before {
+    content: "\e614";
+}
+.stigicon-poltrang:before {
+    content: "\e613";
+}
+.stigicon-securite:before {
+    content: "\e612";
+}
+.stigicon-socialsante:before {
+    content: "\e611";
+}
+.stigicon-urbanismevoirie:before {
+    content: "\e610";
+}
+.stigicon-vieassociative:before {
+    content: "\e60f";
+}
+.stigicon-democratielocale:before {
+    content: "\e621";
+}
+.stigicon-cultureloisir:before {
+    content: "\e620";
+}
+.stigicon-allcat:before {
+    content: "\e623";
+}
+.stigicon-share2:before {
+    content: "\ea82";
+}
+.stigicon-forward:before {
+    content: "\e969";
+}
+.stigicon-top:before {
+    content: "\e603";
+}
+.stigicon-myflux:before {
+    content: "\e607";
+}
+.stigicon-sport:before {
+    content: "\e600";
+}
+.stigicon-mycontributions:before {
+    content: "\e60a";
+}
+.stigicon-stig:before {
+    content: "\e60e";
+}
+.stigicon-stiginv:before {
+    content: "\e622";
+}
+.stigicon-voteaplus:before {
+    content: "\e625";
+}
+.stigicon-voteaminus:before {
+    content: "\e624";
+}
+.stigicon-public:before {
+    content: "\e800";
+}
+.stigicon-stigrecent:before {
+    content: "\e801";
+}
+.stigicon-financement:before {
+    content: "\e802";
+}
+.stigicon-transport:before {
+    content: "\e901";
+}
+.stigicon-aide:before {
+    content: "\e608";
+}
+.stigicon-about:before {
+    content: "\e606";
+}
+.stigicon-profil:before {
+    content: "\e60d";
+}
+.stigicon-educrecherche:before {
+    content: "\e61b";
+}
+.stigicon-logement:before {
+    content: "\e616";
+}
+
+
+
+
