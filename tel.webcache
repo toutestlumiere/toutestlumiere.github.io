@@ -1,22 +1,110 @@
 CACHE MANIFEST
+
+# MEMENTOS
 trace_memento_intro.html
 trace_memento0.html
 trace_mementoA.html
 trace_mementoB.html
+trace_mementoC.html
+trace_mementoD.html
+trace_mementoE.html
+trace_mementoF.html
+
+# EN CAS DE
+trace_encasdangoisse.html
+trace_encasde_depression.html
+trace_encasde_index.html
+trace_encasde_maletre.html
+trace_encasde_stress.html
+trace_encasde_tempete.html
+
+#CHECK
+trace_check_conviction.html
+trace_check_index.html
+
+
+# CSS
+#CSS Global Compulsory
 assets/plugins/bootstrap/css/bootstrap.min.css
 assets/css/style.css
+#CSS Header and Footer
 assets/css/headers/header-default.css
 assets/css/footers/footer-default.css
+#CSS Implementing Plugins
 assets/plugins/animate.css
 assets/plugins/line-icons/line-icons.css
 assets/plugins/font-awesome/css/font-awesome.min.css
 assets/plugins/parallax-slider/css/parallax-slider.css
 assets/plugins/owl-carousel/owl-carousel/owl.carousel.css
-assets/css/theme-colors/default.css" id="style_color
+#CSS Theme
+assets/css/theme-colors/default.css
 assets/css/theme-skins/dark.css
+#CSS Customization
 assets/css/custom.css
+#CSS Page Style
 assets/css/pages/portfolio-v1.css
 assets/css/pages/portfolio-v2.css
 assets/css/pages/page_search.css
 assets/css/pages/shortcode_timeline1.css
+#Personnal Gopal CSS Page Style
 assets/gopal/css/pages/portfolio-v-gopal.css
+
+# Images
+assets/img/traces/
+assets/img/traces/action.jpg			
+assets/img/traces/identite_small.jpg
+assets/img/traces/action_small.jpg		
+assets/img/traces/iwanthappiness_buddha.jpg
+assets/img/traces/angoisse.jpg			
+assets/img/traces/med_cailloux.jpg
+assets/img/traces/angoisse_small.jpg		
+assets/img/traces/med_cailloux_small.jpg
+assets/img/traces/arbre_tempete.jpg		
+assets/img/traces/meditation.jpg
+assets/img/traces/arbre_tempete_small.jpg		
+assets/img/traces/meditation_small.jpg
+assets/img/traces/assis_tranquillement.jpg	
+assets/img/traces/merevinci.jpg
+assets/img/traces/boule.jpg			
+assets/img/traces/nuage_soleil.jpg
+assets/img/traces/boule_small.jpg			
+assets/img/traces/pc.jpg
+assets/img/traces/buddha_jungle.jpg		
+assets/img/traces/pc_small.jpg
+assets/img/traces/coeur.jpg			
+assets/img/traces/peur.jpg
+assets/img/traces/concept_shadock.jpg		
+assets/img/traces/peur_small.jpg
+assets/img/traces/concept_shadock2.jpg		
+assets/img/traces/concept_shadock2_small.jpg	
+assets/img/traces/pratiques.jpg
+assets/img/traces/concept_shadock_small.jpg	
+assets/img/traces/pratiques_small.jpg
+assets/img/traces/contemplation.jpg		
+assets/img/traces/priere_chien.jpg
+assets/img/traces/contemplation_small.jpg		
+assets/img/traces/priere_chien_small.jpg
+assets/img/traces/depression.jpg			
+assets/img/traces/priere_feu.jpg
+assets/img/traces/depression_small.jpg		
+assets/img/traces/priere_feu_small.jpg
+assets/img/traces/equilibre.jpg			
+assets/img/traces/question.jpg
+assets/img/traces/equilibre2.jpg			
+assets/img/traces/question_small.jpg
+assets/img/traces/espace_temps.jpg		
+assets/img/traces/relation.jpg
+assets/img/traces/espace_temps_small.jpg		
+assets/img/traces/relation_small.jpg
+assets/img/traces/gastonbas.jpg			
+assets/img/traces/stress.jpg
+assets/img/traces/gastonbas_small.jpg		
+assets/img/traces/stress_bd.jpg
+assets/img/traces/gatha.jpg			
+assets/img/traces/stress_small.jpg
+assets/img/traces/gatha_small.jpg			
+assets/img/traces/tatoo.jpg
+assets/img/traces/gland.jpg			
+assets/img/traces/tatoo2.jpg
+assets/img/traces/identite.jpg			
+assets/img/traces/tatoo_small.jpg
